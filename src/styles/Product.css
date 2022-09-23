@@ -1,0 +1,143 @@
+.half{
+    display: flex;
+    justify-items: left;
+}
+.half2{
+    background-color:rgb(252, 248, 248);
+    height: auto;
+    width: 50%;
+}
+.half2>h1{
+    margin-top: 8%;
+    margin-left: 4%;
+    margin-bottom: 4%;
+    font-weight: 400;
+}
+.half1{
+width: 50%;
+
+align-items: center;
+justify-content: center;
+}
+
+.N>img{
+height: 58px;
+width: 57px;
+border-radius: 39%;
+margin: 1%;
+margin-left: 4rem;
+}
+.N>p{
+color: grey;
+margin: 1%;
+margin-left: 60rem;
+}
+.N{
+    display: flex;
+    align-items: center;
+    border-bottom:2px solid orangered ;
+   
+}
+.pp2>.pp1{
+    color:gray;
+    margin-top: -2%;
+   
+}
+.pp2>p{
+    color:rgb(221, 217, 217);
+   
+  
+    
+
+}
+.pp2{
+    /* float: left; */
+    font-size: 1.2rem;
+    margin-left: 4%;
+    display: flex;
+ margin-right: 4%;
+    align-items: center;
+    border-bottom: 1px solid rgb(235, 233, 233);
+}
+
+.pp2>.sp1{
+    margin: 2%;
+  
+   
+ 
+    margin: 1%;
+}
+.half2>.pp2>p>span{
+    color: orangered;
+   text-decoration: none;
+   margin-left: 5%;
+   margin-right: 5%;
+   
+ 
+}
+.list{
+    color: gray;
+    margin: 5%;
+    margin-bottom: 10%;
+    border-bottom: 1px solid rgb(235, 233, 233);
+    
+}
+.mainq{
+    margin: 5%;
+    color: grey;
+}
+.qblock{
+    border: 0.5px solid gray;
+    float: left;
+    height: auto;
+    width: 90px;
+    align-items: center;
+    justify-content: center;
+  text-align: center;
+  font-size: 1.5rem;
+  color: black;
+ 
+ 
+  padding-bottom: 1%;
+
+}
+.maib>button{
+    background-color: orangered;
+    width: 100%;
+    height: 40px;
+    color: white;
+    border: none;
+    font-size: 1.2rem;
+    margin-top: 10%;
+}
+.whitebox{
+    background-color: white;
+    height: auto;
+    width: 90%;
+   margin-right: 8%;
+    margin-top: 15%;
+    margin-left: 10%;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+.whitebox>.wb1>p{
+    color:gray ;
+    margin-right: 15rem;
+}
+.whitebox>.wb2>p{
+    color:orangered ;
+    margin-right: 19rem;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+}
+.whitebox>.wb2>h2{
+    color: orangered;
+    font-weight: 400;
+}
+.wb1{
+    display: flex;
+}
+.wb2{
+    display: flex;
+}

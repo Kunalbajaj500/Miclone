@@ -1,0 +1,8 @@
+section{
+    display: flex;
+    flex-wrap: wrap;
+   text-align: center;
+ justify-content: center;
+ padding: 10%;
+    
+}

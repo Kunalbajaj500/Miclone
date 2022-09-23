@@ -1,0 +1,28 @@
+.aps{
+
+
+padding: 7%;
+
+width: 10%;
+
+
+}
+.aps1{
+   
+margin: 10%;
+
+}
+.aps2{
+   
+    margin: 5%;
+
+}
+.apsb>button{
+background-color: orangered;
+color: white;
+border: none;
+height: 30px;
+width: 100px;
+margin: 5%;
+}
+

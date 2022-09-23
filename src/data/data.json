@@ -1,0 +1,141 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name":"Redmi Note 11 Alpha",
+      "price":12000,
+      "amount":1,
+      "image": " https://i02.appmifile.com/783_operator_in/27/04/2022/6fe3aa8afa8ee5f0fc48320549cf7f29.jpg?width=70&height=70"
+    },
+    {
+      "id":2,
+      "name":"Redmi Note 11 X",
+      "price":13000,
+      "amount":1,
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/C95183F1-7F71-7F86-D2B1-66032DB2E616.jpg?width=70&height=70"
+    },
+    {
+      "id":3,
+      "name":"Redmi Note 10 A1",
+      "price":14000,
+      "amount":1,
+      "image": "https://i02.appmifile.com/151_operator_in/23/04/2021/dbbf04a825ec3051f6d5b269a4983228.png?width=70&height=70"
+    },
+    {
+      "id":4,
+      "name":"Redmi 11 Prime 5G",
+      "price":15000,
+      "amount":1,
+      "image": "https://i02.appmifile.com/200_operator_in/22/04/2022/e0c137b4f1f86d2813b1051d2a133a55.png?width=70&height=70"
+    },
+    {
+      "id":5,
+      "name":"Redmi Note 11 Prime",
+      "price":16000,
+      "amount":1,
+      "image": "https://i02.appmifile.com/960_operator_in/10/01/2022/a65f3d0388ad7291b004e17a31e49e16.png?width=70&height=70"
+    },
+    {
+      "id":6,
+      "name":"Redmi 11i",
+      "price":17000,
+      "amount":1,
+      "image": "https://i02.appmifile.com/271_operator_in/10/01/2022/fced1411d9630987c52112cbd91d6b4b.png?width=70&height=70"
+    },
+    {
+      "id":7,
+      "name":"Redmi 10 lite",
+      "price":18000,
+      "amount":1,
+      "image": "https://i02.appmifile.com/874_operator_in/30/09/2021/90875957932d56016eb43cc2951095fe.png?width=70&height=70"
+    },
+    {
+      "id":8,
+      "name":"Redmi Note 11 lite",
+      "price":19000,
+      "amount":1,
+      "image": "https://i02.appmifile.com/449_operator_in/23/06/2021/70a4e99ef157790a1ee8d2a86b427904.jpg?width=70&height=70"
+    },
+    {
+      "id":9,
+      "name":"Redmi K50i",
+      "price":20000,
+      "image": "https://i02.appmifile.com/119_operator_in/23/04/2021/d7a07baa9baa2d5671db216e1665d904.png?width=70&height=70"
+    },
+    {
+      "id":10,
+      "name":"Redmi Note 11 SE",
+      "price":21000,
+      "amount":1,
+      "image": "https://i02.appmifile.com/694_operator_in/20/07/2022/dd39d8eb2382f316a91308fbe05bce8d.png?width=70&height=70"
+    },
+    {
+      "id":11,
+      "name":"Redmi Note 10 Power",
+      "amount":1,
+      "price":22000,
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/C95183F1-7F71-7F86-D2B1-66032DB2E616.jpg?width=70&height=70"
+    },
+    {
+      "id":12,
+      "name":"Redmi  10A",
+      "amount":1,
+      "price":32000,
+      "image": "https://i02.appmifile.com/151_operator_in/23/04/2021/dbbf04a825ec3051f6d5b269a4983228.png?width=70&height=70"
+    },
+    {
+      "id":13,
+      "name":"Redmi Note 10 Prime",
+      "amount":1,
+      "price":22000,
+      "image": "https://i02.appmifile.com/200_operator_in/22/04/2022/e0c137b4f1f86d2813b1051d2a133a55.png?width=70&height=70"
+    },
+    {
+      "id":14,
+      "name":"Redmi 9i",
+      "amount":1,
+      "price":22000,
+      "image": "https://i02.appmifile.com/960_operator_in/10/01/2022/a65f3d0388ad7291b004e17a31e49e16.png?width=70&height=70"
+    },
+    {
+      "id":15,
+      "name":"Redmi Note 10 Pro Max",
+      "amount":1,
+      "price":32000,
+      "image": "https://i02.appmifile.com/271_operator_in/10/01/2022/fced1411d9630987c52112cbd91d6b4b.png?width=70&height=70"
+    },
+    {
+      "id":16,
+      "name":"Redmi  10 ",
+      "price":22000,
+      "image": "https://i02.appmifile.com/874_operator_in/30/09/2021/90875957932d56016eb43cc2951095fe.png?width=70&height=70"
+    },
+    {
+      "id":17,
+      "name":"Redmi Note 9A Sports",
+      "amount":1,
+      "price":12000,
+      "image": "https://i02.appmifile.com/449_operator_in/23/06/2021/70a4e99ef157790a1ee8d2a86b427904.jpg?width=70&height=70"
+    },
+    {
+      "id":18,
+      "name":"Redmi Note 10 lite",
+      "amount":1,
+      "price":14000,
+      "image": "https://i02.appmifile.com/119_operator_in/23/04/2021/d7a07baa9baa2d5671db216e1665d904.png?width=70&height=70"
+    },
+    {
+      "id":19,
+      "name":"Redmi Note 10s",
+      "price":18000,
+      "image": "https://i02.appmifile.com/694_operator_in/20/07/2022/dd39d8eb2382f316a91308fbe05bce8d.png?width=70&height=70"
+    },
+    {
+      "id":20,
+      "name":"Redmi Note 10 Pro Max",
+      "amount":1,
+      "price":13000,
+      "image": "https://i02.appmifile.com/694_operator_in/20/07/2022/dd39d8eb2382f316a91308fbe05bce8d.png?width=70&height=70"
+    }
+  ]
+}
